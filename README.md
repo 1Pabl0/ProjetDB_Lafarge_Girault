@@ -116,3 +116,5 @@ Le dictionnaire contient 32 données brutes identifiées pour le système.
 | Moyen de paiement | VARCHAR | 30 |
 
 ---
+
+<img width="1343" height="737" alt="image" src="https://github.com/user-attachments/assets/5411f2c8-6657-42d5-8048-a45f3c70c401" />
